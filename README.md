@@ -12,3 +12,7 @@ This system classifies support emails while masking personally identifiable info
 ```bash
 git clone https://github.com/your-username/email-classification-system.git
 cd email-classification-system
+
+2. Install dependencies:
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
