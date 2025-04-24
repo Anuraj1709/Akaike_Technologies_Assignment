@@ -1,0 +1,1 @@
+# Akaike_Technologies_Assignment
